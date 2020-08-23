@@ -1,0 +1,1 @@
+print("copying data from Big Query to Cloud SQL.")
